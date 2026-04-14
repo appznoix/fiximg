@@ -1,2 +1,2 @@
-node process-images.js
+node index.js %*
 pause
