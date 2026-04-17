@@ -1,8 +1,8 @@
-node_modules/
 .env
 .env.local
 /processed
 /tmp_bg
+node_modules/
 
 *.png
 *.jpg
